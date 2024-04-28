@@ -1,0 +1,21 @@
+body{
+    background: url(images/bg_main.gif) center;
+}
+.custom-bg-color-1{
+    background: #9E5BBA;
+}
+.custom-bg-color-2{
+    background: #8cc643;
+}
+.custom-bg-color-3{
+    background: #609513;
+}
+.custom-bg-color-4{
+    background: #efefef;
+}
+.custom-color-1{
+    color: #9E5BBA;
+}
+.footer-border{
+    border-bottom: #9E5BBA solid 4px;
+}
